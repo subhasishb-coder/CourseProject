@@ -41,10 +41,18 @@ Software Dependencies:
 
 Setup and Usage Instructions:
 -----------------------------
-1) Download/pull the repo
-2) cd to 'code'
-3) Apply - pip install requirements.txt.
-4) Make sure ‘data’ folder has train and test jsonl files.
-5) Apply - python TestClassficationCompetion_Sarcasm_Detection.py.
-6) answer.txt file will be created in the same directory.
+1) conda create -n "project_demo" python=3.8.3
+2) conda activate project_demo
+3) git clone https://github.com/subhasishb-coder/CourseProject.git
+4) cd CourseProject
+5) pip install nltk==3.5
+6) pip install pandas==1.0.5
+7) pip install scikit_learn==0.23.2
+8) cd code
+9) python TestClassficationCompetion_Sarcasm_Detection.py
+
+Software Usage Tutorial Link:
+-----------------------------
+https://mediaspace.illinois.edu/media/t/1_xwb0wmzt
+
 
