@@ -41,8 +41,10 @@ Software Dependencies:
 
 Setup and Usage Instructions:
 -----------------------------
-1)	Apply - pip install requirements.txt.
-2)	Make sure ‘data’ folder has train and test jsonl files.
-3)	Apply - python TestClassficationCompetion_Sarcasm_Detection.py.
-4)	answer.txt file will be created in the same directory.
+1) Download/pull the repo
+2) cd to 'code'
+3) Apply - pip install requirements.txt.
+4) Make sure ‘data’ folder has train and test jsonl files.
+5) Apply - python TestClassficationCompetion_Sarcasm_Detection.py.
+6) answer.txt file will be created in the same directory.
 
