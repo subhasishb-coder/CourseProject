@@ -1,7 +1,7 @@
 # CourseProject
 
 Introduction
-++++++++++++
+------------
 As final project for CS 410 Text Information System, we participated in Text Classification Competition to detect Twitter Sarcasm. We were given both Training and Test datasets.
 
 The Training dataset Content
@@ -31,7 +31,7 @@ Our project objective is to learn from the Training dataset and predict the labe
 
 
 Setup and Usage Instructions
-++++++++++++++++++++++++++++
+----------------------------
 Software Dependencies:
 ----------------------
 1) Python==3.8.3
